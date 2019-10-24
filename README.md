@@ -7,6 +7,7 @@ This is a repository created to remember the Hacktober Fest organized by Github,
 <ul>
 <li> <a href="https://github.com/asubodh/">Subodh Aryal</a> | <a href="https://techybug.com/">Techy Bug</a><li>
 <a href="https://github.com/asangam/">Sangam Adhikari</a> | <a href="https://asangam.com.no/">aSangam</a><li></ul>
+<a href="https://github.com/rdsandip7/">Sandip Dhakal</a> | <a href="https://rdsandip7.com/">rdsandip</a><li></ul>
 *Please follow the github Markdown format strictly else PR request might get neglected.*
 *Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before.*
 
